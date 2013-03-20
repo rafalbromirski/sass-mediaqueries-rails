@@ -15,6 +15,10 @@ If you don't want to use is as a gem, you can use single `scss` file: <http://gi
 Do you like Responsive Web Design? Everyone does!
 Here you can find a collection of useful **media queries mixins** (including iOS devices like iPhones and iPads) for **Sass 3.2.0+**.
 
+### Who did it?
+
+Just me - [Rafal Bromirski](http://paranoida.com) - if you want you can follow me on [twitter](https://twitter.com/paranoida) or check my works on [dribbble](http://dribbble.com/paranoida).
+
 ## How to install
 
 Add this line to your application's Gemfile:
