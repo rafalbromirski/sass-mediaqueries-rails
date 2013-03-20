@@ -43,7 +43,7 @@ Requirements:
   Sass 3.2.0+
 
 Version:
-  2.3                                      // developed on 10/03/2013
+  1.2.3                                    // developed on 10/03/2013
 
 Mixins:
   @ min-screen(width)                      // shortcut for @media screen and (min-width ...)
