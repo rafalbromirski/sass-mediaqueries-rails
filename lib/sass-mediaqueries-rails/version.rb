@@ -1,3 +1,3 @@
 module SassMediaqueriesRails
-  VERSION = "1.2.3"
+  VERSION = "1.2.3.1"
 end
