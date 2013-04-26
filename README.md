@@ -1,4 +1,3 @@
-
 ![Media Queries Mixins for Sass](http://paranoida.github.com/sass-mediaqueries/images/logo.jpg)
 
 ---
@@ -36,7 +35,7 @@ Or install it yourself as:
 Inside your sass/scss file (ie. `application.scss`) add:
 
 ```
-@import "media_queries";
+@import "media-queries";
 ```
 
 
